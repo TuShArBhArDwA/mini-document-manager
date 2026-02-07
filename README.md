@@ -40,7 +40,7 @@ graph TD
     User[User] -->|Uploads/View| Client[React Client]
     Client -->|HTTP API| Server[Express Server]
     Server -->|Metadata Read/Write| DB[(SQLite Database)]
-    Server -->|File Stream/Write| FS[File System (uploads/)]
+    Server -->|File Stream/Write| FS["File System (uploads/)"]
     
     subgraph Backend
     Server
