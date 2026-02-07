@@ -29,6 +29,20 @@ function App() {
         <section>
           <DocumentList refreshTrigger={refreshKey} />
         </section>
+
+        <footer className="mt-8 text-center text-gray-500 text-sm">
+          <p>
+            Made with 💙 by{' '}
+            <a
+              href="https://github.com/TuShArBhArDwA"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 transition-colors"
+            >
+              Tushar Bhardwaj
+            </a>
+          </p>
+        </footer>
       </div>
     </div>
   );
