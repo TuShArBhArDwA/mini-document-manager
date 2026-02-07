@@ -2,8 +2,12 @@
 
 <img width="1882" height="970" alt="image" src="https://github.com/user-attachments/assets/8deeb3d5-b60b-4405-ab1d-a904f9c69d0f" />
 
-
 A minimal full-stack document manager application built with Node.js, Express, SQLite, React, and TailwindCSS.
+
+## Demo
+
+[Watch the Demo Video](https://drive.google.com/file/d/1mBX43TnRBP5MfJ6DHFnxWGm_J8xKMvGh/view?usp=sharing)
+
 
 ## Features
 
