@@ -112,3 +112,12 @@ This project includes detailed design and verification documents found in the `d
 - **SQLite:** Used for simplicity and being file-based (zero config), but lacks the concurrency features of PostgreSQL/MySQL.
 - **Local Filesystem:** Files are stored locally, which doesn't scale across multiple server instances (requires a shared volume or S3).
 - **Validation:** Basic validation checks (file presence), but lacks deep security scans (antivirus, extensive mime-type verification).
+
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Connect with me
+
+If you'd like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj)
