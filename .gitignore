@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+
+# Uploaded files (don't push user content)
+server/uploads/*
+!server/uploads/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
