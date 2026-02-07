@@ -53,7 +53,18 @@ graph TD
     end
 ```
 
+
+## Documentation & Design
+
+This project includes detailed design and verification documents found in the `docs/` folder:
+
+- **[Architecture & Sequence Diagrams](docs/ARCHITECTURE.md)**: Visual flows for Upload/Download processes.
+- **[High-Level Design (HLD)](docs/HLD.md)**: System overview and component interaction.
+- **[Low-Level Design (LLD)](docs/LLD.md)**: Database schema and API specifications.
+- **[Test Execution Report](docs/TEST_CASES.md)**: Verified manual test cases.
+
 ## Design Questions
+
 
 ### 1. Multiple Uploads
 **How does your system handle uploading multiple documents?**
